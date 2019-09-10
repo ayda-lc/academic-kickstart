@@ -21,7 +21,7 @@ organizations:
 bio: I am currently pursuing a master's degree in public history at Carleton University. This site, developed in the Guerilla Digital Public History class at Carleton University, will log the progress and development of a project that will make use of digital tools to interact with public spaces. 
 
 interests:
-- local hisotry in the Canadian prairies
+- local history in the Canadian prairies
 - memory
 - commemoration
 - public art 
