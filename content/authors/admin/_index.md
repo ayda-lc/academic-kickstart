@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Ayda is a student in Guerilla Digital Public History at Carleton University. This is a Test. 
+I am currently pursuing a master's degree in public history at Carleton University. This site, developed in the Guerilla Digital Public History class at Carleton University, will log the progress and development of a project that will make use of digital tools to interact with public spaces.
