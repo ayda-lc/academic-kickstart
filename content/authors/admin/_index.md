@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently pursuing a master's degree in public history at Carleton University. This site, developed in the Guerrilla Digital Public History class at Carleton University, will log the progress and development of a project that will make use of digital tools to interact with history in public spaces. 
+bio: I am currently pursuing a master's degree in public history at Carleton University. This site, developed in a Guerrilla Digital Public History class, will log the progress and development of a project that will make use of digital tools to interact with history in public spaces. 
 
 interests:
 - local history in the Canadian prairies
@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently pursuing a master's degree in public history at Carleton University. This site, developed in the Guerrilla Digital Public History class at Carleton University, will log the progress and development of a project that will make use of digital tools to interact with history in public spaces.
+I am currently pursuing a master's degree in public history at Carleton University. This site, developed in a Guerrilla Digital Public History class, will log the progress and development of a project that will make use of digital tools to interact with history in public spaces.
