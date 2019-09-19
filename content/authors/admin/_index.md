@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently pursuing a master's degree in public history at Carleton University. My research focuses on historic and commemorative street names in St. Norbert, Manitoba, and how the urban environment shapes and is shaped by collective memory. Street names, with their pervasiveness and apparent mundanity, can be a powerful tool in the communication of a narrative and the expression of identity. I am also interested in how digital tools can be used to enhance people's interactions with hsitory in public spaces. This website will log the progress and development of a guerrilla digital public history project - wish me luck! 
+bio: I am currently pursuing a master's degree in public history at Carleton University. This site, developed in a Guerrilla Digital Public History class, will log the progress and development of a project that will make use of digital tools to interact with history in public spaces.
 
 interests:
 - local history in the Canadian prairies
@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently pursuing a master's degree in public history at Carleton University. This site, developed in a Guerrilla Digital Public History class, will log the progress and development of a project that will make use of digital tools to interact with history in public spaces.
+I am currently pursuing a master's degree in public history at Carleton University. My research focuses on historic and commemorative street names in St. Norbert, Manitoba, and how the urban environment shapes and is shaped by collective memory. Street names, with their pervasiveness and apparent mundanity, can be a powerful tool in the communication of a narrative and the expression of identity. I am also interested in how digital tools can be used to enhance people's interactions with hsitory in public spaces. This website will log the progress and development of a guerrilla digital public history project - wish me luck! 
