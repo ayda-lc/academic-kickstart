@@ -22,6 +22,7 @@ bio: I am currently pursuing a master's degree in public history at Carleton Uni
 
 interests:
 - local history in the Canadian prairies
+- toponymy 
 - memory
 - commemoration
 - public art 
