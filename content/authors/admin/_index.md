@@ -35,7 +35,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: milato:aydaloewenclarke@cmail.carleton.ca 
+  link: #contact 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AydaLoewen
