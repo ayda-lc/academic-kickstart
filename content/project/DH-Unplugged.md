@@ -21,7 +21,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "dhcards.png"
+image = "unpluggedheader.png"
 caption = ""
 
 +++
