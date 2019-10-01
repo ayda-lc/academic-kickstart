@@ -27,4 +27,4 @@ caption = ""
 +++
 
 Developed by the 2018-2019 Digital Humanities class at Carleton University, DH Unplugged is a collaborative analogue deck-building game addressing current issues through a critical DH lens. 
-See the concepts at play and download the gmae and rules for free [here https://playdhcu5000.github.io/dh-unplugged/]
+See the concepts at play and download the gmae and rules for free [here](https://playdhcu5000.github.io/dh-unplugged/)
