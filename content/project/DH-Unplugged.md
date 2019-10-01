@@ -5,7 +5,7 @@ date = "2019-10-01"
 author = "ayda-lc"
 
 # Project title.
-title = "DH-Unplugged"
+title = "DH Unplugged"
 
 # Project summary to display on homepage.
 summary = "The Game of Digital Humanities"
@@ -26,4 +26,5 @@ caption = ""
 
 +++
 
-Developed by the 2018-2019 Digital Humanities class at Carleton University, DH Unplugged is a collaborative deck-building game addressing current issues through a critical DH lens. 
+Developed by the 2018-2019 Digital Humanities class at Carleton University, DH Unplugged is a collaborative analogue deck-building game addressing current issues through a critical DH lens. 
+See the concepts at play and download the gmae and rules for free [here https://playdhcu5000.github.io/dh-unplugged/]
