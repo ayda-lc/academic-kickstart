@@ -14,7 +14,7 @@ summary = "The Game of Digital Humanities"
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "https://playdhcu5000.github.io/dh-unplugged/"
+external_link = "https://playdhcu5000.github.io/dh-unplugged/"
 
 # Does the project detail page use math formatting?
 math = false
