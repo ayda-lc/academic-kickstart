@@ -31,7 +31,7 @@ email_form = 0
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "contacttiger.png"  
+  # image = "contacttiger.png"  
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
