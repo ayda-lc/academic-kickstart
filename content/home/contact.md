@@ -8,6 +8,8 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
+image = contact-image.png 
+
 # Automatically link email and phone?
 autolink = false
 
