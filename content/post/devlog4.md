@@ -1,0 +1,23 @@
+---
+title: Development Log 4
+date: "2019-10-23" 
+header:
+  caption: "icon is Art Gallery by Kantor Tegalsari from the Noun Project"
+  image: "devlogheader4.png"
+--- 
+# Designing with Empathy in Museum Spaces 
+## [Marissa](https://marissafoley.netlify.com/) and I are setting out to co-develop a digital guerrilla public history project. These devlogs will document the creative process in all of its excitement, chaos, delight, frustration, and messiness.
+
+I came across as [article](https://medium.com/@artsmia/can-museums-make-us-better-people-a257a29e104) that talks about intentionally designing museum spaces with empathy, and it got me thinking about incorporating empathy into the design of this project. In the article, Elif Gokcigdem (author of the book *Fostering Empathy Through Museums*) talks about how museum spaces have an opportunity to act as "sites of empathy-building and social change". By approaching museum visitors and spaces with empathy, it creates a safe space for people to learn and grow - a compassionate approach to activism and social justice that I think should be a key component to our project. 
+
+Areas that I want to approach with emapthy in this project: 
++ empathy for the museum visitor: how are we working to meet them where they're at, thus allowing them room to grow? 
++ empathy for the AR user: using AR technology has many limitations. Both access and useability are factors we need to think about when designing our experience. 
++ empathy for the natural environment: how do we use our own visual interventions to promote empathy for all the parts of the natural world that are currently under attack? 
++ empathy for the space we're operating in: how do we design this so it doesn't interfere with other visitors' expereinces who aren't using the app? Can we employ empathy in the artworks we chose, the spaces we occupy? 
++ empathy for the artworks themselves: How do our artistic interventions interact with the artworks themselves? How do we honour the artworks and their creators?
+
+The Minneapolis Museum of Art has [a research centre dedicated to the study of empathy and visual art](https://new.artsmia.org/empathy/). Among other things, it has suggested readings and toolkits on building empathy in museum collecting and education practices. These resources will be invaluable as we move forard in the development of our visual art intervention. 
+
+Gokcigdem says that "empathy is something that cannot be learned linearly, it has to be experienced. And when it is experienced, it’s contagious. But for that to happen, it has to be authentic and sincere." If we intentionally design the expereince of the ARtful Environments project with empathy in mind, and work at every step to remain authentic and sincere, I hope that what we create can engage with the expereince of empathy and foster an ethos of care within and outside of the museum space.   
+
