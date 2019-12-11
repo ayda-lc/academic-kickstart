@@ -1,0 +1,23 @@
+---
+title: Development Log 10
+summary: Peer Reflection: The Numis-o-matic Machine 
+date: "2019-12-11" 
+header:
+  caption: "icon is Art Gallery by Kantor Tegalsari from the Noun Project"
+  image: "devlog10.png"
+--- 
+# Peer Reflection: The Numis-o-matic Machine 
+
+This past term, everyone in the Guerrilla Digital History class put together really interesting & unique projects. From chatbots to twine games to alternative audio tours, I wish I had the time to fully explore and reflect upon each one. I dont, so I'll focus on one - my colleage and friend Sali's Numis-o-matic Machine. 
+
+The Numis-o-matic Machine is cleverly named after the field of numismatics - the study of coins and paper currency. The project description promises "to challenge dominant and official narratives of Canadian commemorative coins and to re-situate them in narratives that highlight the nuances of the histories they signify."
+
+The three coins that the Numis-o-matic Machine plays with represent three contemporary commemorations of past events. Sali challenges each of the narratives presented on the coins, and offers not only a critical analysis but also positive suggestions for re-design of the coins. With this, the project highlights a key problem in commemoration, especially national commemorations - so often, commemorations are done as celebrations, as a 'pat-on-the-back' to the collective Canadian national identity. The Numis-o-matic Machine shakes this up and questions events that are often uncritically celebrated. 
+
+The right to vote for women, for example, was celebrated as a 100th anniversary on a commemorative coins. Sali re-designed this coin to call attention to the fact that women of colour and Indigenous women did not have the right to vote until 1960. So, with the simple change of dates on the coin from *1916-2019* to *1916-1960*, the narrative now focuses on the continued fight for voter enfranchisement among marginalized groups in those years.  
+
+The paradata for the project reads as a hopeful narrative for anyone who has ever had creative or tech-related setbacks in a project. Sali reflects thoughtfully and frankly on the challenging process of creating a digital project like this one from scratch. 
+
+This project succeeds in that it offers both a textual and visual re-interpretation of these coins, which give multples ways for a visitor to the project to understand the re-interpretations. It also succeeds in challenging the narratives presented by the original coins while remaining respectful of the ethical implications of approaching these topics. Rather than negate the histories the coins tell, it pays respect to them by taking their complications and nuances at face value, and showing a way to present difficult national narratives to the public. 
+
+See the project for yourself here: https://mslafrenie.github.io/numis-o-matic-machine/
